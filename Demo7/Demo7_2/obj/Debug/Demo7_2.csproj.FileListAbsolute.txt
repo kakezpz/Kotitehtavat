@@ -1,0 +1,6 @@
+D:\Kouluhommat\Demo7\Demo7_2\bin\Debug\Demo7_2.exe.config
+D:\Kouluhommat\Demo7\Demo7_2\bin\Debug\Demo7_2.exe
+D:\Kouluhommat\Demo7\Demo7_2\bin\Debug\Demo7_2.pdb
+D:\Kouluhommat\Demo7\Demo7_2\obj\Debug\Demo7_2.csprojResolveAssemblyReference.cache
+D:\Kouluhommat\Demo7\Demo7_2\obj\Debug\Demo7_2.exe
+D:\Kouluhommat\Demo7\Demo7_2\obj\Debug\Demo7_2.pdb
