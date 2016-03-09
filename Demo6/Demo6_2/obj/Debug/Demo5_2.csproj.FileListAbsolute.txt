@@ -1,0 +1,5 @@
+D:\Kouluhommat\Demo5\Demo5_2\bin\Debug\Demo5_2.exe.config
+D:\Kouluhommat\Demo5\Demo5_2\bin\Debug\Demo5_2.exe
+D:\Kouluhommat\Demo5\Demo5_2\bin\Debug\Demo5_2.pdb
+D:\Kouluhommat\Demo5\Demo5_2\obj\Debug\Demo5_2.exe
+D:\Kouluhommat\Demo5\Demo5_2\obj\Debug\Demo5_2.pdb
