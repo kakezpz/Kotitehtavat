@@ -1,0 +1,6 @@
+D:\Kouluhommat\Demo4\Demo4_5\bin\Debug\Demo4_5.exe.config
+D:\Kouluhommat\Demo4\Demo4_5\bin\Debug\Demo4_5.exe
+D:\Kouluhommat\Demo4\Demo4_5\bin\Debug\Demo4_5.pdb
+D:\Kouluhommat\Demo4\Demo4_5\obj\Debug\Demo4_5.csprojResolveAssemblyReference.cache
+D:\Kouluhommat\Demo4\Demo4_5\obj\Debug\Demo4_5.exe
+D:\Kouluhommat\Demo4\Demo4_5\obj\Debug\Demo4_5.pdb
